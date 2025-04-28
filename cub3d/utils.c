@@ -12,8 +12,6 @@
 
 #include "head.h"
 
-#include "head.h"
-
 static char	*get_start_position(char *str, const char *delim, char **save_ptr)
 {
 	if (!str)
